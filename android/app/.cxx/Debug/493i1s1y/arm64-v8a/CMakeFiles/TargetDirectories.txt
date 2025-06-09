@@ -1,0 +1,2 @@
+C:/signify/android/app/.cxx/Debug/493i1s1y/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/signify/android/app/.cxx/Debug/493i1s1y/arm64-v8a/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1054650044083",
+    "project_id": "hanzify-6sem",
+    "storage_bucket": "hanzify-6sem.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054650044083:android:98acfc3730b64ef62b2ac6",
+        "android_client_info": {
+          "package_name": "com.example.signify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiAI9Ql69qazxyD7it9zLOBVdbnZ_ZTos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

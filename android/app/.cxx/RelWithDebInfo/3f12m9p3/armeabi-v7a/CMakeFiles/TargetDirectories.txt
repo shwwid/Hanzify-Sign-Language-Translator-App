@@ -1,0 +1,2 @@
+C:/signify/android/app/.cxx/RelWithDebInfo/3f12m9p3/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/signify/android/app/.cxx/RelWithDebInfo/3f12m9p3/armeabi-v7a/CMakeFiles/rebuild_cache.dir
